@@ -12,6 +12,10 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
+    <label for="mobile"><b>Enter your alternate mobile number</b></label>
+    <input type="text" placeholder="Enter alternate moible number" name="mobile" id="mobile" required>
+    <br>
+
     <label for="email"><b>Enter your Email address</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
