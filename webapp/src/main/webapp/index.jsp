@@ -1,14 +1,15 @@
 <form action="action_page.php">
   <div class="container">
     <h1> The form is for a New user Registration for my DevOps Training</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1> I am doing a practice for DevOps on this day 2nd June 2022</h1>
+    <p>Kindly fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter your Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter your mobile number</b></label>
+    <label for="mobile"><b>Enter your first mobile number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
@@ -20,7 +21,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Your Password</b></label>
+    <label for="psw"><b>Enter your Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
@@ -36,6 +37,7 @@
   </div>
 
    <h1> Thank you, Happy Learning by Edozie </h1>
+   <h1> Worked here on this day, 2nd June 2022</h1>
 
   
 </form>
