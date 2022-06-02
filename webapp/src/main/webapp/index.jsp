@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1> The form is for a New user Registration for my DevOps Training</h1>
-    <h1> I am doing a practice for DevOps on this day 2nd June 2022</h1>
+    <h1> I am doing a practice for DevOps on this day, thursday 2nd June 2022</h1>
     <p>Kindly fill in this form to create an account.</p>
     <hr>
      
